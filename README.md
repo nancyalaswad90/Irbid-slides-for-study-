@@ -2,7 +2,9 @@
 
 
 [ادارة الابداع والابتكار كتاب معتمد.pdf](https://github.com/user-attachments/files/33613210/default.pdf)
+
 [نموذج خطة المساق - الإدارة الاستراتيجية للتكنولوجيا والابتكار - الفصل الدراسي الاول.pdf](https://github.com/user-attachments/files/33613207/-.-.pdf)
+
 [نموذج خطة المساق - الإدارة الاستراتيجية للتكنولوجيا والابتكار - الفصل الدراسي الاول.docx](https://github.com/user-attachments/files/33613205/-.-.docx)
 
 
