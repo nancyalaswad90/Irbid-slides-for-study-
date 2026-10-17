@@ -15,8 +15,8 @@
 
 - **Second Week**
 
-[الإدارة_الاستراتيجية_للتكنولوجيا_والابتكار.pptx](https://github.com/user-attachments/files/33613194/_._._.pptx)
-[الإدارة_الاستراتيجية_للتكنولوجيا_والابتكار.pdf](https://github.com/user-attachments/files/33613192/_._._.pdf)
+    - [الإدارة_الاستراتيجية_للتكنولوجيا_والابتكار.pptx](https://github.com/user-attachments/files/33613194/_._._.pptx)
+    - [الإدارة_الاستراتيجية_للتكنولوجيا_والابتكار.pdf](https://github.com/user-attachments/files/33613192/_._._.pdf)
 
 - **Third Week**
 - **Fourth Week**
