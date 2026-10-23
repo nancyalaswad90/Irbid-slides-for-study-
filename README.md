@@ -24,6 +24,12 @@
     - [الإدارة_الاستراتيجية_للتكنولوجيا_والابتكار.pdf](https://github.com/user-attachments/files/33613192/_._._.pdf)
 
 - **Third Week**
+
+    - [Strategic_Innovation_Playbook.pptx](https://github.com/user-attachments/files/33850248/Strategic_Innovation_Playbook.pptx)
+    
+    - [Strategic_Innovation_Playbook.pdf](https://github.com/user-attachments/files/33850245/Strategic_Innovation_Playbook.pdf)
+
+  
 - **Fourth Week**
 - **Fifth Week**
 - **Sexth Week**
