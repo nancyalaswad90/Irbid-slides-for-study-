@@ -4,9 +4,6 @@
 
 سنبدأ بالسلايد الأول من ملف The Topography of Innovation، وسنعتمد أسلوبًا تدريسيًا يتضمن المصطلحات العلمية بالعربية والإنجليزية، والتفسير المبسط، ومثالًا تطبيقيًا، ومعلومة علمية، وسؤالًا للطلاب.
 
-[RightNow Conference 2025: Immovable | RightNow Media](https://images.openai.com/static-rsc-4/wu9Gsa51xwhPzvf5_5UVg4lNwsXCaT2czaYm6NJKF_L-WufbMVHkwEGdwnXuK3uQpDCjn2J-mXsUVnpt-InYydD0Nyqqy8xgorTmk5X2FK0FG6ecvQQCLoS2BAQNecmNzln0wk2gaXxrxgM-t2Mnn0dKU1oF1r4ySpOQATro91o?purpose=inline)
-
-[rightnowmedia.org](https://www.rightnowmedia.org/blog/rightnow-conference-2025-immovable?utm_source=chatgpt.com)
 
 الشريحة الأولى: هندسة الإبداع والابتكار — من الأعماق النفسية إلى التطبيق الاستراتيجي
 
