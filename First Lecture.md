@@ -33,25 +33,11 @@
 
 ويمكن توضيح العلاقة بهذا التسلسل:
 
-العوامل النفسية والمعرفية
+العوامل النفسية والمعرفية  Psychological & Cognitive Factors
+.
+<img width="925" height="498" alt="image" src="https://github.com/user-attachments/assets/13e20a1d-739f-43ad-b556-1653dd194ab0" />
 
-Psychological & Cognitive Factors
-
-الدافعية، المعرفة، الخبرة، والخيال
-
-الإبداع — Creativity
-
-توليد أفكار جديدة وملائمة
-
-الابتكار — Innovation
-
-تطوير الفكرة وتحويلها إلى تطبيق عملي
-
-القيمة الاستراتيجية — Strategic Value
-
-تحسين الأداء أو تقديم قيمة للمستفيدين
-
-هذا التسلسل نموذج توضيحي مبسط، وليس نموذجًا سببيًا مثبتًا في الشريحة.
+.
 
 ## 3. مثال تطبيقي من بيئة الأعمال — Business Example
 
