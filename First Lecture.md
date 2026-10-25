@@ -1,4 +1,4 @@
-# شرح المحاضرة — السلايد الأول
+<img width="232" height="150" alt="download" src="https://github.com/user-attachments/assets/4522ec9d-1a3c-40b0-98e9-7fcb1e1eb0b4" /># شرح المحاضرة — السلايد الأول
 
 مادة إدارة الإبداع والابتكار | Innovation and Creativity Management
 
@@ -106,6 +106,10 @@
 رسم توضيحي مبسط مستند إلى فكرة السلايد، وليس توزيعًا إحصائيًا مثبتًا ببيانات فعلية.
 
 .
+![Upl<svg font-family="-apple-system-body, ui-sans-serif, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, &quot;Apple Color Emoji&quot;, Arial, sans-serif, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;" font-weight="400" data-d-component="svg" fill="currentColor" style="color:rgb(237, 237, 237)" viewBox="0 0 340 220" width="100%" xmlns="http://www.w3.org/2000/svg"><line x1="24" y1="183" x2="328" y2="183" stroke="currentColor" stroke-width="1.5"/><line x1="24" y1="183" x2="24" y2="15" stroke="currentColor" stroke-width="1.5"/><path d="M25 182 C62 182 74 161 99 117 C123 72 144 25 174 25 C204 25 225 72 249 117 C274 161 286 182 327 182" fill="none" stroke="#225C9C" stroke-width="3"/><path d="M25 182 C62 182 74 161 99 117 L99 183 Z" fill="#9CBBD7" fill-opacity=".5"/><path d="M99 117 C123 72 144 25 174 25 C204 25 225 72 249 117 L249 183 L99 183 Z" fill="#477FAE" fill-opacity=".3"/><path d="M249 117 C274 161 286 182 327 182 L249 183 Z" fill="#C9A04D" fill-opacity=".7"/><line x1="99" y1="117" x2="99" y2="183" stroke="#225C9C" stroke-dasharray="4 3" stroke-opacity=".6"/><line x1="249" y1="117" x2="249" y2="183" stroke="#C9A04D" stroke-dasharray="4 3"/><g font-size="10" fill="currentColor" text-anchor="middle"><text x="62" y="203">منخفضة</text><text x="174" y="203">متوسطة</text><text x="285" y="203">مرتفعة</text><text x="174" y="216" font-size="9">مستوى القدرات الإبداعية</text></g><text x="11" y="112" font-size="10" fill="currentColor" transform="rotate(-90 11 112)" text-anchor="middle">العدد النسبي للأفراد</text></svg>oading download.svg…]()
+
+.
+
 
 كيف نشرح الرسم؟
 
