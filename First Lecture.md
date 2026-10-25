@@ -184,7 +184,7 @@ Guilford, J. P. (1950). Creativity. American Psychologist, 5(9), 444–454. [htt
 **الإبداع ليس صفة حصرية للعباقرة، والقدرات الإبداعية تتفاوت بين الأفراد، ويمكن تنمية جوانب منها من خلال التعلم والتدريب والبيئة الداعمة.**
 .
 
-<img width="951" height="740" alt="image" src="https://github.com/user-attachments/assets/3b47af56-5092-46f5-abb3-143c835eeb1c" />
+<img width="1066" height="840" alt="image" src="https://github.com/user-attachments/assets/3b47af56-5092-46f5-abb3-143c835eeb1c" />
 
 
 .
