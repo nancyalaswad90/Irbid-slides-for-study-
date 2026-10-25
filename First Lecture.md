@@ -108,7 +108,9 @@
 رسم توضيحي مبسط مستند إلى فكرة السلايد، وليس توزيعًا إحصائيًا مثبتًا ببيانات فعلية.
 
 .
-<img width="232" height="150" alt="download" src="https://github.com/user-attachments/assets/4522ec9d-1a3c-40b0-98e9-7fcb1e1eb0b4" /> 
+
+<img width="968" height="669" alt="image" src="https://github.com/user-attachments/assets/adfc1d1a-3c17-477b-8453-a003c6eae560" />
+
 
 .
 
