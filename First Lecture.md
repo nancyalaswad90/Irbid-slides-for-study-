@@ -925,6 +925,8 @@ Slide 8 — Perceptual Mechanism: Breaking and Reconstructing Patterns
 | الاستبصار              | Insight                 | اكتشاف علاقة أو حل بصورة مفاجئة          |
 | التفكير الإبداعي       | Creative Thinking       | إنتاج أفكار جديدة وملائمة                |
 
+.
+
 ## ثالثًا: مثال بسيط جدًا من الحياة اليومية
 
 تخيّلوا أن لدينا صندوقًا كرتونيًا فارغًا.
@@ -932,20 +934,10 @@ Slide 8 — Perceptual Mechanism: Breaking and Reconstructing Patterns
 الشخص الذي يفكر بطريقة معتادة قد يقول:
 
 «هذا الصندوق مخصص لتخزين الأشياء».
+.
+<img width="877" height="429" alt="image" src="https://github.com/user-attachments/assets/1e38f0db-81a1-4ae8-be0f-b2cd0debf8a8" />
 
-أما الشخص الذي يبحث عن استخدامات بديلة فقد يقترح تحويله إلى حامل للهاتف، أو منظم للمكتب، أو نموذج أولي لتصميم منتج.
-
-[An open cardboard box rests on a bright white surface with soft shadows highlighting its edges and structure in natural light](https://images.openai.com/static-rsc-4/mqgsYr5-Q_I1TPXlNgnx260KitKVhx3iCmokC2rASEwFsGSR3dJCVy2iEO62EaG5Q4-UpNJ04MYr7Bx246mWzX5eXy2eh8nSlCz5924QSStFPgtQD57PJlr2F3JRufpdZcy9xElmUg7crWl3Tbxd7IUU_Tke6GM9N04xg89cgVovVhjQa7WthOYE-pQG6gC1?purpose=inline)
-
-الاستخدام المعتاد
-
-Storage — التخزين
-
-[Itoshige Studio](https://images.openai.com/static-rsc-4/BIzh1jvs0TeYlBQJ4QoCvFiHMhhAAKawlEQnXbMAnHS6sDrqyBnw0Ug51Olh_RYRwDXC7hQ67DDGJhWEPIGiljuobcUe8--D6jdS7gEU0FcVc8jHHI_9dL7Rs0vmEzHTIEej_DfCDiM5y07q3TCdI2EiYgsaZ-ywZfEq6ViwyHU?purpose=inline)
-
-استخدام بديل
-
-Alternative Use — استخدام جديد
+.
 
 السؤال الذي نطرحه: هل تغيرت المادة الأساسية؟
 
