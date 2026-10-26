@@ -619,6 +619,8 @@ Slide 6 — The Engine of Creativity: From Repression to Sublimation
 
 الهدف التعليمي: أن يفهم الطالب كيف فسّرت نظرية التحليل النفسي بعض أشكال الإبداع، وأن يميز بين الكبت (Repression) والتسامي (Sublimation)، مع تطبيق المفاهيم على أمثلة من الحياة اليومية وبيئة الأعمال.
 
+.
+
 ## أولًا: الفكرة الرئيسية في السلايد
 
 تتناول الشريحة السادسة فكرة مستمدة من التحليل النفسي لدى سيغموند فرويد (Sigmund Freud)، وهي أن بعض الدوافع والصراعات النفسية يمكن، وفق هذا التصور النظري، أن تجد تعبيرًا عنها في أنشطة فنية أو فكرية أو اجتماعية مقبولة.
@@ -629,35 +631,22 @@ Slide 6 — The Engine of Creativity: From Repression to Sublimation
 
 لكن ليس كل نشاط إبداعي ناتجًا عن الكبت أو الصراع النفسي.
 
+.
+
 ## ثانيًا: شرح الصورة والفكرة بصورة مبسطة
 
 ### التصور النفسي للتسامي
+.
 
-دوافع أو صراعات نفسية
 
-Psychological Drives & Conflicts
+.
 
-مشاعر أو رغبات قد يصعب التعبير عنها مباشرة
 
-الكبت
 
-Repression
+<img width="843" height="538" alt="image" src="https://github.com/user-attachments/assets/11ac4701-edc3-4ccf-bb54-f7206bfb73ad" />
 
-إبعاد محتوى نفسي مزعج عن الوعي، وفق النظرية
 
-التسامي
-
-Sublimation
-
-توجيه الدوافع نحو نشاط مقبول وبنّاء
-
-نشاط إبداعي أو اجتماعي بنّاء
-
-Creative or Constructive Activity
-
-مثل الفن أو الكتابة أو البحث العلمي
-
-هذا الرسم يوضح مفهوم التسامي في التحليل النفسي، ولا يعني أن الكبت يؤدي بالضرورة إلى الإبداع أو أن التسامي يمر دائمًا بالكبت.
+.
 
 ## ثالثًا: المصطلحات العلمية بالعربية والإنجليزية
 
@@ -670,6 +659,8 @@ Creative or Constructive Activity
 | الدوافع النفسية     | Psychological Drives   | قوى أو حاجات تدفع الفرد إلى السلوك                           |
 | الصراع النفسي       | Psychological Conflict | تعارض بين رغبات أو دوافع أو متطلبات نفسية                    |
 | التعبير الإبداعي    | Creative Expression    | التعبير عن الأفكار والمشاعر بطرق جديدة وملائمة               |
+
+.
 
 ## رابعًا: ما الفرق بين الكبت والتسامي؟
 
@@ -726,7 +717,8 @@ Creative Problem-Solving
 
 وهنا نعلّم الطلاب التمييز بين السلوك الذي نلاحظه والتفسير النفسي الذي نفترضه.
 
-## سادسًا: معلومة علمية لإثراء المحاضرة
+.
+
 
 يرتبط مفهوم التسامي بأعمال فرويد في التحليل النفسي، ثم تطور تناول آليات الدفاع في أعمال آنا فرويد.
 
@@ -746,17 +738,10 @@ Freud, A. (1936). The Ego and the Mechanisms of Defence. International Psycho-An
 
 Gross, J. J. (1998). The emerging field of emotion regulation: An integrative review. Review of General Psychology, 2(3), 271–299. [https://doi.org/10.1037/1089-2680.2.3.271](https://doi.org/10.1037/1089-2680.2.3.271?utm_source=chatgpt.com)
 
-## سابعًا: نص جاهز للإلقاء أثناء المحاضرة
 
-طلابنا الأعزاء،
-
+.
 
 
-
-
-
-
-<img width="843" height="538" alt="image" src="https://github.com/user-attachments/assets/11ac4701-edc3-4ccf-bb54-f7206bfb73ad" />
 
 
 <img width="701" height="790" alt="image" src="https://github.com/user-attachments/assets/87562eb2-215f-4b63-9d36-cbfbbe8fd1a6" />
