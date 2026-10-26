@@ -790,6 +790,8 @@ Slide 7 — Primary and Secondary Thought Processes in Creativity
 | توليد الأفكار     | Idea Generation     | إنتاج أفكار وحلول محتملة                                               |
 | تقييم الأفكار     | Idea Evaluation     | فحص جودة الأفكار وإمكان تطبيقها                                        |
 
+.
+
 ## ثالثًا: كيف نشرح الفرق للطلاب؟
 
 لنفترض أن أحد الطلاب يريد ابتكار تطبيق جديد لخدمة الجامعة.
@@ -816,6 +818,8 @@ Slide 7 — Primary and Secondary Thought Processes in Creativity
 
 ملاحظة علمية: هذا المثال يشرح بصورة مبسطة فائدة الجمع بين الخيال والتحليل، لكنه لا يعني أن كل تفكير تخيلي يُصنف علميًا بوصفه عملية أولية بالمعنى الفرويدي.
 
+.
+
 ## رابعًا: مقارنة العمليات الأولية والثانوية
 
 | وجه المقارنة           | Primary Processes        | Secondary Processes        |
@@ -827,6 +831,8 @@ Slide 7 — Primary and Secondary Thought Processes in Creativity
 | الفائدة في درس الإبداع | إبراز دور الخيال         | إبراز دور التقييم والتخطيط |
 
 لا ينبغي اعتبار العمليتين مرحلتين إلزاميتين تحدثان بهذا الترتيب لدى كل شخص.
+
+.
 
 ## خامسًا: مثال تطبيقي من إدارة الأعمال
 
@@ -852,6 +858,8 @@ Slide 7 — Primary and Secondary Thought Processes in Creativity
 
 الإجابة: لا. فالفكرة الإبداعية تحتاج إلى تطوير وتطبيق حتى تتحول إلى ابتكار عملي (Innovation).
 
+.
+
 ## سادسًا: معلومة علمية لإثراء المحاضرة
 
 في أبحاث الإبداع المعاصرة، يُميز الباحثون أحيانًا بين توليد الأفكار (Idea Generation) وتقييم الأفكار (Idea Evaluation).
@@ -862,7 +870,7 @@ Slide 7 — Primary and Secondary Thought Processes in Creativity
 
 Runco, M. A., & Chand, I. (1995). Cognition and creativity. Educational Psychology Review, 7, 243–267. [https://doi.org/10.1007/BF02213373](https://doi.org/10.1007/BF02213373?utm_source=chatgpt.com)
 
-## سابعًا: نص جاهز للإلقاء في المحاضرة
+## نص جاهز للإلقاء في المحاضرة
 
 .
 
