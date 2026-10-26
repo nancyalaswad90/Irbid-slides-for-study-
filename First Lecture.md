@@ -309,3 +309,204 @@ Slide 3 — Calvin Taylor's Five Levels of Creativity
 الفكرة التي ينبغي أن يحتفظ بها الطالب: يمكن دراسة الإبداع من خلال مجالاته وعملياته والعوامل المؤثرة فيه، كما يمكن تصنيف مستوياته وفق نماذج نظرية محددة.
 .
 
+
+.
+# السلايد الرابع: خريطة المساهمات النظرية — كيف فسّر العلماء الإبداع؟
+
+Slide 4 — Theoretical Contributions to Understanding Creativity
+
+الهدف التعليمي: أن يتعرف الطالب إلى أبرز المدارس الفكرية التي حاولت تفسير الإبداع، ويفهم كيف تختلف في تفسير مصدر الفكرة الإبداعية وطريقة تطويرها.
+
+## أولًا: ما الفكرة الرئيسية في السلايد؟
+
+توضح الشريحة الرابعة أن العلماء لم يتفقوا على تفسير واحد للإبداع، بل درسوه من زوايا متعددة: العمليات النفسية، وخصائص الشخصية والسلوك، وأساليب التفكير وحل المشكلات.
+
+### ثلاث مدارس لفهم الإبداع
+
+التحليل النفسي
+
+Psychoanalytic
+
+ما الدوافع النفسية وراء الإبداع؟
+
+الذات والسلوك
+
+Self & Behavior
+
+كيف تؤثر الشخصية والسلوك؟
+
+الإدراكية والتطبيقية
+
+Cognitive & Applied
+
+كيف نطوّر أساليب التفكير؟
+
+تبسيط تعليمي للتقسيم الوارد في الشريحة الرابعة من العرض.
+
+كيف نشرح ذلك للطلاب؟
+
+تخيّلوا أن ثلاثة باحثين يريدون معرفة لماذا استطاع أحد الموظفين ابتكار حل جديد لمشكلة في المؤسسة.
+
+الباحث الأول يدرس الدوافع النفسية والخبرات الداخلية للموظف. والثاني يدرس شخصيته وسلوكه وطريقة تعامله مع التحديات. أما الثالث فيركز على كيفية تفكيره، وإعادة تنظيم المعلومات، واكتشاف حلول بديلة.
+
+إذن، نحن أمام ظاهرة واحدة، ولكن تفسيرات مختلفة.
+
+## ثانيًا: المصطلحات العلمية بالعربية والإنجليزية
+
+| المصطلح بالعربية  | English Term                | الشرح المبسط                                              |
+| ----------------- | --------------------------- | --------------------------------------------------------- |
+| النظرية           | Theory                      | تفسير منظم لظاهرة معينة                                   |
+| المدرسة الفكرية   | School of Thought           | اتجاه يجمع أفكارًا وتفسيرات متقاربة                       |
+| التحليل النفسي    | Psychoanalysis              | اتجاه يركز على العمليات النفسية، ومنها العمليات اللاواعية |
+| اللاوعي           | Unconscious                 | عمليات نفسية تحدث خارج نطاق الوعي المباشر                 |
+| تحقيق الذات       | Self-Actualization          | السعي إلى تطوير الإمكانات والقدرات الشخصية                |
+| العملية الإبداعية | Creative Process            | المراحل والعمليات المرتبطة بتوليد الأفكار وتطويرها        |
+| التفكير الجانبي   | Lateral Thinking            | البحث عن حلول عبر تغيير زاوية النظر والافتراضات           |
+| التفكير العمودي   | Vertical Thinking           | التفكير المتسلسل الذي يتبع خطوات منطقية                   |
+| التفكير التباعدي  | Divergent Thinking          | توليد عدة أفكار أو حلول محتملة                            |
+| الإبداع والذكاء   | Creativity and Intelligence | دراسة العلاقة بين القدرة الإبداعية والقدرات العقلية       |
+
+## ثالثًا: شرح العلماء الواردين في السلايد
+
+### المدرسة الأولى: التحليل النفسي — Psychoanalytic School
+
+[Sigmund Freud](https://images.openai.com/static-rsc-4/7FhMhLOJsvBGOkW1or3mS13kJvCZWMYCXKkxSeXt_B84BzWp1O8G2aVz7llLOD436ysGAI5vo1fwPOzG_lhlp6jdbsefczdFwmsTKexuEOVtk6XGGhZNU8ssL_Prz5twuVIXPeWlV5Ah2146gPXsYKe1l_74HTih9YmyuLdeiLqza5ZhjdyMNAkNQPJLSK9K?purpose=inline)
+
+Sigmund Freud — سيغموند فرويد
+
+Psychoanalysis — التحليل النفسي
+
+اهتم فرويد بالدوافع والصراعات النفسية والعمليات اللاواعية. وفي بعض تفسيراته، يمكن أن يرتبط الإنتاج الإبداعي بتحويل الدوافع إلى أنشطة مقبولة اجتماعيًا، وهو ما يسمى التسامي (Sublimation).
+
+مثال للطلاب: شخص يعبّر عن مشاعره المعقدة من خلال كتابة رواية أو إنتاج عمل فني.
+
+[45 Carl Jung Quotes to Inspire and Affirm You - Parade](https://images.openai.com/static-rsc-4/MhxcrwD51ribYQWe4ey2oNXOr7lJCq9oh-rZiEEX9S8I8_2iJ0JusgtIX1jwdnKGHmtiT-aFMINl7hCFuq1tFh5qr9UrTKpreDwDg9Jn8sc2W1e5r15egn_rY-2s6HGZiMHxYASM09GRcUUjTOUxORzaRJGnqOmluO3BHZMmezE?purpose=inline)
+
+Carl Jung — كارل يونغ
+
+Collective Unconscious — اللاوعي الجمعي
+
+ركّز يونغ على الرموز والصور والأنماط المشتركة في الخبرة الإنسانية، وربطها بالتعبير النفسي والفني.
+
+مثال: استخدام رموز ثقافية مشتركة في تصميم عمل فني جديد.
+
+Alfred Adler — ألفرد أدلر
+
+Compensation — التعويض
+
+تناول أدلر مفهوم التعويض والسعي إلى تجاوز الشعور بالنقص ضمن نظريته في علم النفس الفردي.
+
+مثال: شخص يشعر بضعف مهارته في مجال معين، فيبذل جهدًا لتطوير نفسه والتميز فيه.
+
+ملاحظة علمية: هذه تفسيرات نفسية تاريخية، وليست أدلة قاطعة على أن الإبداع ينتج دائمًا من الكبت أو التعويض أو اللاوعي.
+
+### المدرسة الثانية: الذات والسلوك — Self and Behavior
+
+[Abraham Maslow - Theory, Hierarchy & Pyramid](https://images.openai.com/static-rsc-4/DuWYxf_I6WYYiIVEE33FoRmn9n9Kph5POZqXe_yggdBKCTiuBladanDxJGxrDt118kE4UZI_QpTgXVAe5dKtIs_Uncn7VgB81KkOhJZYfUoDUdfuryX8x0B97pXfTnt1wtDNyJUO4oR39MOOJLAT9i0mzsyvw5ESahEKhYpTUpA?purpose=inline)
+
+Abraham Maslow — أبراهام ماسلو
+
+Self-Actualization — تحقيق الذات
+
+ربط ماسلو تحقيق الذات بتنمية إمكانات الفرد، وتناول الإبداع بوصفه أحد أوجه التعبير عن هذه الإمكانات.
+
+مثال: موظف يطوّر مشروعًا جديدًا لأنه يرغب في تحقيق قدراته، وليس فقط للحصول على مكافأة.
+
+[File:Graham Wallas, c1920s.jpg - Wikimedia Commons](https://images.openai.com/static-rsc-4/4susJQ7UmxUAPUAvcdRsmE-Yxgod4iI0TXQK_9JQsUb2AMvSzySonJjzMBon_6lV1ks8VYWi8O5tnded7XRGGCAe_0MbBxz_SlNMk3niFIjmXo3DDdSqnrrfHvKHddcD6ec-tOXBm8HEHP4-4gL9SEfjoS2szNDZRo861NL7-p4?purpose=inline)
+
+Graham Wallas — غراهام والاس
+
+Creative Process — العملية الإبداعية
+
+يرتبط والاس بالنموذج الكلاسيكي الذي يعرض العملية الإبداعية في أربع مراحل: الإعداد، والاحتضان، والإشراق، والتحقق.
+
+مثال: طالب يدرس مشكلة، ثم يبتعد عنها مؤقتًا، فتظهر له فكرة، وبعد ذلك يختبر صلاحيتها.
+
+[lewis_terman | \~ gabriella giudici](https://images.openai.com/static-rsc-4/dcFkIkHwefSQuhvSHuivq1I3yW37PyL3JLimiZhB_hHIv2gNCwvxkccFL-Y7JSp3mb-qjX-wKoCQjg4uRFUMEAMyUX8ls4bevkWfWWVPyTEwm5fgzrmzQ3WFtIz2DG660m1o06Bsq8OxDOmnGn1pVR9XyZw6n_9AnTOVQXW5ybA?purpose=inline)
+
+Lewis Terman — لويس تيرمان
+
+Intelligence and Giftedness — الذكاء والموهبة
+
+عُرف تيرمان بدراساته الطولية للأفراد ذوي الذكاء المرتفع. ويمكن الاستفادة من أعماله في مناقشة العلاقة بين الذكاء والإنجاز، مع ضرورة عدم مساواة الذكاء بالإبداع.
+
+مثال: قد يمتلك شخص قدرة عالية على حل المسائل المنطقية، دون أن يعني ذلك بالضرورة تفوقه في إنتاج أفكار أصيلة.
+
+تنبيه حول الشريحة: يظهر في العرض اسما «باتريك وهاريس» و«تشامبرز». لا تكفي المعلومات المكتوبة لتحديد هويات الباحثين وأعمالهم بدقة؛ لذلك لا أنسب إليهما نظريات تفصيلية دون مراجعة المرجع الأصلي للمحاضرة. وقد استخدمت والاس وتيرمان هنا كمثالين علميين إضافيين، لا باعتبارهما بديلين موثقين عن الأسماء في الشريحة.
+
+### المدرسة الثالثة: الإدراكية والتطبيقية — Cognitive and Applied School
+
+[Edward de Bono talks about the importance of creative thinking](https://images.openai.com/static-rsc-4/HPrdpXYolLa05ZkfJJayz3uOo05hnBy65mwZwZUS_ZWbm0OxGVwjg05xf8mj1-hTbIKR4ZWmErdR5Hu0dl9dp4FHUMIYpShPW-nScVQc8051yGu2h8mToTR4nybSFMP6g7U_j8wINF8Vh3MrZrIBtMUHpfvN2wglgNroKIloRls?purpose=inline)
+
+Edward de Bono — إدوارد دي بونو
+
+Lateral Thinking — التفكير الجانبي
+
+ركز على تغيير طريقة النظر إلى المشكلة، والخروج من مسارات التفكير المعتادة لتوليد بدائل جديدة.
+
+مثال: بدلًا من السؤال «كيف نزيد عدد موظفي خدمة العملاء؟»، نسأل «كيف نجعل العميل لا يحتاج إلى الانتظار أصلًا؟».
+
+[Robert Sternberg - Award-winning Educator - Author of “Adaptive Intelligence” - Fmr. President, Ame — The Creative Process](https://images.openai.com/static-rsc-4/5RlpCoTmZ9rxjszHJSJx5yOgmnPbiuxS7tTy-4OKEZBZvzqurqW1IgHWcgZx9tHwWmizD2vOKvWHMzA9-nwzAisMQfvbegModN3qJ_Y_1NhSzNW8teik1QTaw4is69WQ5dZWAE6FcgZ-KiSID1g6sT7RRWBcmyDQxvGPNzc1TJ8?purpose=inline)
+
+Robert Sternberg — روبرت ستيرنبرغ
+
+Creativity and Intelligence — الإبداع والذكاء
+
+تناول الإبداع في علاقته بالقدرات العقلية والمعرفة والدافعية والبيئة، وأسهم في تطوير تفسيرات متعددة للعوامل المرتبطة به.
+
+مثال: لا يكفي أن تكون الفكرة غير مألوفة؛ بل يجب أن يمتلك الفرد المعرفة والقدرة على تقييمها وتطويرها.
+
+[Jackson, Philip W. : Photographic Archive : The University of Chicago](https://images.openai.com/static-rsc-4/DnmxD5x8QnNHERsgN57JQqkPCqZbYxc2HYjy3BpXmoZ3fEYUGkxnKZ72cELWIYYpU01Uy2VvPTp34qaIal3ToGYjxEgIh0BzlFLxOvDHM6bNdJpq62JGdvfgIoseGbp9tQFZTzGbttvDtj5KsvhbOxpBASmBUKQlAkqcVxVE8l4?purpose=inline)
+
+Getzels & Jackson — جيتزلز وجاكسون
+
+Creativity versus Intelligence — الإبداع مقابل الذكاء
+
+.
+تناولا العلاقة بين الإبداع والذكاء في السياق التعليمي، وساعدت أعمالهما في إثارة النقاش حول حدود الاعتماد على اختبارات الذكاء وحدها لتقييم القدرات الإبداعية.
+
+مثال: قد يحقق طالب أداءً متوسطًا في اختبار تقليدي، لكنه يقدم أفكارًا أصيلة في مشروع تطبيقي.
+
+## رابعًا: مقارنة المدارس الثلاث
+
+| المدرسة              | تركيزها الأساسي             | السؤال التدريسي                            |
+| -------------------- | --------------------------- | ------------------------------------------ |
+| التحليل النفسي       | الدوافع والعمليات النفسية   | لماذا تظهر الفكرة؟                         |
+| الذات والسلوك        | الفرد وخصائصه ودوافعه       | ما العوامل الفردية التي تساعد على الإبداع؟ |
+| الإدراكية والتطبيقية | عمليات التفكير وحل المشكلات | كيف نولد أفكارًا وحلولًا جديدة؟            |
+
+هذا الجدول تبسيط للمقارنة، وليس فصلًا حاسمًا بين المدارس؛ فبعض النظريات تتناول أكثر من جانب.
+
+
+.
+
+## خامسًا: معلومة علمية لإثراء السلايد
+
+هل الذكاء المرتفع يعني بالضرورة الإبداع المرتفع؟
+
+ليس بالضرورة. فالذكاء والإبداع مفهومان مترابطان في بعض جوانبهما، لكنهما غير متطابقين.
+
+فقد تساعد القدرات العقلية على فهم المشكلات وتحليلها، بينما يتطلب الإبداع أيضًا الأصالة والملاءمة، وقد تسهم فيه المعرفة والدافعية والبيئة.
+
+ومن المراجع المفيدة لفهم العلاقة بينهما:
+
+- Getzels, J. W., & Jackson, P. W. (1962). Creativity and Intelligence: Explorations with Gifted Students. Wiley.
+- Sternberg, R. J., & Lubart, T. I. (1995). Defying the Crowd: Cultivating Creativity in a Culture of Conformity. Free Press.
+
+.
+
+<img width="708" height="601" alt="image" src="https://github.com/user-attachments/assets/3cd052bf-ba2d-49d3-ae19-a3533f326025" />
+.
+
+## خلاصة السلايد الرابع
+
+لا توجد مدرسة واحدة تفسّر جميع جوانب الإبداع. فبعض الاتجاهات تركز على الدوافع النفسية، وأخرى على خصائص الفرد، وأخرى على العمليات المعرفية وأساليب التفكير.
+
+**بعد التعرف إلى المدارس الفكرية المختلفة، سنبدأ بالتعمق في أحد التفسيرات النفسية التاريخية من خلال عنوان «طوبوغرافيا العقل: أين يختبئ الابتكار؟»، الذي يعرض مفاهيم الشعور واللاشعور واللاشعور الجمعي، مع التمييز بين هذه المفاهيم النظرية وما تدعمه الأدلة العلمية الحديثة.**
+
+.
+
+
+
+.
+
