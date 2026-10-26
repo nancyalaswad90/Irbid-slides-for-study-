@@ -860,7 +860,7 @@ Slide 7 — Primary and Secondary Thought Processes in Creativity
 
 .
 
-## سادسًا: معلومة علمية لإثراء المحاضرة
+## معلومة علمية لإثراء المحاضرة
 
 في أبحاث الإبداع المعاصرة، يُميز الباحثون أحيانًا بين توليد الأفكار (Idea Generation) وتقييم الأفكار (Idea Evaluation).
 
